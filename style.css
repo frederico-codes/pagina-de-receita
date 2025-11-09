@@ -1,6 +1,7 @@
 *{
   margin:0;
   padding: 0;
+  border-box:box-size;
 }
 img{
   border-radius:16px; 
@@ -9,8 +10,8 @@ img{
   font-family:'Alice',serif;
 }
 body{
-  background-image: url(assets/bg-image.png);
-  background-color:rgb(78, 58, 17) ;
+  
+  background-image: url(./assets/image/bg-image.svg);  
   background-size: cover;
 }
 #page{
@@ -55,11 +56,12 @@ p+p{
   margin-top:24px;
 }
 footer{
-  color:#ffff;
+  color:dark;
   text-align: center;
   margin-bottom: 40px;
 
 }
 footer img{
+  filter: brightness(0);
   vertical-align: text-bottom;
 }
