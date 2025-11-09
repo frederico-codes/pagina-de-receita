@@ -10,9 +10,14 @@ img{
   font-family:'Alice',serif;
 }
 body{
-  
-  background-image: url(./assets/image/bg-image.svg);  
+body {
+  position: relative;
+  background-image: url(./assets/image/bg-image.svg);
   background-size: cover;
+  background-position: center;
+  margin: 0;
+  height: 100vh;
+}
 }
 #page{
   margin:48px auto auto;
