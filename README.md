@@ -66,11 +66,7 @@ O layout foi baseado no design do Figma, disponível neste link:
 
 ---
 
-## 💜 Créditos
 
-Feito com 💜 pela [Rocketseat](https://www.rocketseat.com.br/).
-
----
 
 
 
