@@ -22,7 +22,7 @@ Também foi explicado sobre o **modo de código** e o **style guide**, que cont�
 O instrutor destacou a importância de entender o style guide antes de iniciar o estilo do projeto.
 
 ### 📦 Organização e Imagens
-baixei e organizei as imagens em uma pasta `assets` para o projeto web.  
+Baixei e organizei as imagens em uma pasta `assets` para o projeto web.  
 Utilizamos o Figma para exportar imagens em formatos **JPG** e **PNG**, discutindo vantagens e desvantagens de cada um.  
 Depois, integramos as imagens ao código HTML e iniciamos o CSS, aplicando `border-radius`.  
 Encerramos a aula com o primeiro commit no Git, ignorando arquivos desnecessários e adicionando imagens e estilos ao repositório.
@@ -47,7 +47,7 @@ Ao final, foi feito um novo commit no Git.
 ---
 
 
----
+
 
 ## 🚀 Tecnologias Utilizadas
 
